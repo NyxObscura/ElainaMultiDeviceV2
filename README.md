@@ -1,3 +1,3 @@
-# Optimizing SQL performance
+# Fixing missing semicolons
 
-_Last updated: 2025-02-16T21:41:11.020Z_
+_Last updated: 2025-02-16T21:41:41.092Z_
