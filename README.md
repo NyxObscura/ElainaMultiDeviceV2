@@ -1,3 +1,3 @@
-# Removing deprecated functions
+# Refactoring background jobs
 
-_Last updated: 2025-02-16T20:31:39.928Z_
+_Last updated: 2025-02-16T20:32:09.846Z_
