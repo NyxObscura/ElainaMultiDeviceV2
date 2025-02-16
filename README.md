@@ -1,3 +1,3 @@
-# Improving application startup time
+# Fixing UI glitches
 
-_Last updated: 2025-02-16T08:00:45.132Z_
+_Last updated: 2025-02-16T08:01:15.188Z_
