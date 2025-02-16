@@ -1,3 +1,3 @@
-# Adding multi-language support
+# Reducing bundle size
 
-_Last updated: 2025-02-16T19:13:38.508Z_
+_Last updated: 2025-02-16T19:14:08.496Z_
