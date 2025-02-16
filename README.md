@@ -1,3 +1,3 @@
-# Adding logging for better debugging
+# Adding better exception handling
 
-_Last updated: 2025-02-16T18:35:07.890Z_
+_Last updated: 2025-02-16T18:35:37.868Z_
