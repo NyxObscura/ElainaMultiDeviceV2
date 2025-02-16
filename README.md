@@ -1,3 +1,3 @@
-# Improving API documentation
+# Fixing missing semicolons
 
-_Last updated: 2025-02-16T09:03:39.186Z_
+_Last updated: 2025-02-16T09:04:04.771Z_
