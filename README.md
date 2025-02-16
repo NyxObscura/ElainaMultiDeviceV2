@@ -1,3 +1,3 @@
-# Updating project metadata
+# Refactoring background jobs
 
-_Last updated: 2025-02-16T17:08:06.275Z_
+_Last updated: 2025-02-16T17:08:36.296Z_
