@@ -1,3 +1,3 @@
-# Refactoring background jobs
+# Optimizing SQL performance
 
-_Last updated: 2025-02-16T22:55:12.299Z_
+_Last updated: 2025-02-16T22:55:42.349Z_
