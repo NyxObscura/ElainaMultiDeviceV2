@@ -1,3 +1,3 @@
-# Reducing memory usage
+# Removing deprecated functions
 
-_Last updated: 2025-02-16T06:47:43.821Z_
+_Last updated: 2025-02-16T06:48:13.860Z_
