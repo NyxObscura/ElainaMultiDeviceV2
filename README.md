@@ -1,3 +1,3 @@
-# Adding new features
+# Updating documentation formatting
 
-_Last updated: 2025-02-16T09:37:31.756Z_
+_Last updated: 2025-02-16T09:38:01.632Z_
