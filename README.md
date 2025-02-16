@@ -1,3 +1,3 @@
-# Improving database indexing
+# Updating example code snippets
 
-_Last updated: 2025-02-16T10:46:32.748Z_
+_Last updated: 2025-02-16T10:47:03.172Z_
