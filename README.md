@@ -1,3 +1,3 @@
-# Performance improvements
+# Updating example code snippets
 
-_Last updated: 2025-02-16T18:57:08.168Z_
+_Last updated: 2025-02-16T18:57:38.232Z_
