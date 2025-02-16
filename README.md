@@ -1,3 +1,3 @@
-# Updating outdated references
+# Refactoring background jobs
 
-_Last updated: 2025-02-16T21:22:40.687Z_
+_Last updated: 2025-02-16T21:23:10.804Z_
