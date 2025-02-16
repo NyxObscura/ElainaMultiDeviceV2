@@ -1,3 +1,3 @@
-# Adding better analytics tracking
+# Reducing memory usage
 
-_Last updated: 2025-02-16T11:25:03.116Z_
+_Last updated: 2025-02-16T11:25:33.091Z_
