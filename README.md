@@ -1,3 +1,3 @@
-# Optimizing caching mechanism
+# Reducing bundle size
 
-_Last updated: 2025-02-16T13:18:32.412Z_
+_Last updated: 2025-02-16T13:19:02.422Z_
