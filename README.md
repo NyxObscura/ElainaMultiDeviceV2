@@ -1,3 +1,3 @@
-# Fixing data inconsistency issues
+# Updating API request parameters
 
-_Last updated: 2025-02-16T11:20:33.037Z_
+_Last updated: 2025-02-16T11:21:02.975Z_
