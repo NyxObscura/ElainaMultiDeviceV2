@@ -1,3 +1,3 @@
-# Updating documentation formatting
+# Fixing typos in documentation
 
-_Last updated: 2025-02-16T19:59:39.250Z_
+_Last updated: 2025-02-16T20:00:09.341Z_
