@@ -1,3 +1,3 @@
-# Fixing typos in documentation
+# Fixing timezone-related issues
 
-_Last updated: 2025-02-16T14:19:33.523Z_
+_Last updated: 2025-02-16T14:20:03.391Z_
