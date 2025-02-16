@@ -1,3 +1,3 @@
-# Reducing bundle size
+# Enhancing offline support
 
-_Last updated: 2025-02-16T08:30:15.539Z_
+_Last updated: 2025-02-16T08:30:45.660Z_
