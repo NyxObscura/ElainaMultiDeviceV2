@@ -1,3 +1,3 @@
-# Updating API request parameters
+# Improving SEO metadata
 
-_Last updated: 2025-02-16T07:06:43.975Z_
+_Last updated: 2025-02-16T07:07:14.055Z_
