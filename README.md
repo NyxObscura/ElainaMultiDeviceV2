@@ -1,3 +1,3 @@
-# Optimizing SQL queries
+# Optimizing SQL performance
 
-_Last updated: 2025-02-16T21:36:41.031Z_
+_Last updated: 2025-02-16T21:37:11.044Z_
