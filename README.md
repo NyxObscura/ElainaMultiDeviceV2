@@ -1,3 +1,3 @@
-# Fixing broken links in README
+# Reducing bundle size
 
-_Last updated: 2025-02-16T09:28:55.082Z_
+_Last updated: 2025-02-16T09:29:26.630Z_
