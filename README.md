@@ -1,3 +1,3 @@
-# Reducing redundant operations
+# Refactoring background jobs
 
-_Last updated: 2025-02-16T09:45:01.774Z_
+_Last updated: 2025-02-16T09:45:32.087Z_
