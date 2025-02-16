@@ -1,3 +1,3 @@
-# Fixing image rendering issues
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-16T22:14:11.639Z_
+_Last updated: 2025-02-16T22:14:41.699Z_
