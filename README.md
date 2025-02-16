@@ -1,3 +1,3 @@
-# Adding fallback mechanisms
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-16T18:27:37.798Z_
+_Last updated: 2025-02-16T18:28:07.648Z_
