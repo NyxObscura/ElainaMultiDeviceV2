@@ -1,3 +1,3 @@
-# Refactoring background jobs
+# Fixing UI glitches
 
-_Last updated: 2025-02-16T17:41:36.886Z_
+_Last updated: 2025-02-16T17:42:06.748Z_
