@@ -1,3 +1,3 @@
-# Updating API request parameters
+# Optimizing SQL queries
 
-_Last updated: 2025-02-16T17:09:06.370Z_
+_Last updated: 2025-02-16T17:09:36.312Z_
