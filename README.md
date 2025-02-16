@@ -1,3 +1,3 @@
-# Enhancing offline support
+# Adding better exception handling
 
-_Last updated: 2025-02-16T05:22:55.719Z_
+_Last updated: 2025-02-16T05:23:25.758Z_
