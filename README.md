@@ -1,3 +1,3 @@
-# Adding better tooltips
+# Fixing broken links in README
 
-_Last updated: 2025-02-16T19:01:08.142Z_
+_Last updated: 2025-02-16T19:01:38.243Z_
