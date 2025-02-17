@@ -1,3 +1,3 @@
-# Updating example code snippets
+# Updating CI/CD pipeline
 
-_Last updated: 2025-02-17T13:22:08.913Z_
+_Last updated: 2025-02-17T13:22:38.898Z_
