@@ -1,3 +1,3 @@
-# Updating documentation formatting
+# Adding proper error messages
 
-_Last updated: 2025-02-17T18:28:42.609Z_
+_Last updated: 2025-02-17T18:29:12.573Z_
