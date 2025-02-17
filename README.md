@@ -1,3 +1,3 @@
-# Adding better analytics tracking
+# Fixing compatibility issues
 
-_Last updated: 2025-02-17T14:24:40.178Z_
+_Last updated: 2025-02-17T14:25:09.680Z_
