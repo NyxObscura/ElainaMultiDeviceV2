@@ -1,3 +1,3 @@
-# Refining UI elements
+# Updating example code snippets
 
-_Last updated: 2025-02-17T05:09:55.801Z_
+_Last updated: 2025-02-17T05:10:26.153Z_
