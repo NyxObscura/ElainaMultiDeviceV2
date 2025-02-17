@@ -1,3 +1,3 @@
-# Cleaning up unused code
+# Updating example code snippets
 
-_Last updated: 2025-02-17T07:38:58.834Z_
+_Last updated: 2025-02-17T07:39:29.502Z_
