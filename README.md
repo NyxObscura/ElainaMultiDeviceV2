@@ -1,3 +1,3 @@
-# Enhancing mobile responsiveness
+# Reducing bundle size
 
-_Last updated: 2025-02-17T07:02:57.773Z_
+_Last updated: 2025-02-17T07:03:28.286Z_
