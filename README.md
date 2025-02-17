@@ -1,3 +1,3 @@
-# Optimizing README file
+# Reducing bundle size
 
-_Last updated: 2025-02-17T19:14:13.266Z_
+_Last updated: 2025-02-17T19:14:43.286Z_
