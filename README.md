@@ -1,3 +1,3 @@
-# Fixing inconsistent naming conventions
+# Updating API request parameters
 
-_Last updated: 2025-02-17T16:40:41.567Z_
+_Last updated: 2025-02-17T16:41:11.660Z_
