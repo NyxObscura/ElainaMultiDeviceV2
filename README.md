@@ -1,3 +1,3 @@
-# Updating example code snippets
+# Fixing pagination bugs
 
-_Last updated: 2025-02-17T10:09:17.570Z_
+_Last updated: 2025-02-17T10:09:47.628Z_
