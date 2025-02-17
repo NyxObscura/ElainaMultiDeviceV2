@@ -1,3 +1,3 @@
-# Fixing race conditions in async code
+# Fixing image rendering issues
 
-_Last updated: 2025-02-17T06:07:26.837Z_
+_Last updated: 2025-02-17T06:07:57.368Z_
