@@ -1,3 +1,3 @@
-# Fixing event listener memory leaks
+# Optimizing SQL queries
 
-_Last updated: 2025-02-17T06:32:57.874Z_
+_Last updated: 2025-02-17T06:33:27.241Z_
