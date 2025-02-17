@@ -1,3 +1,3 @@
-# Enhancing dark mode support
+# Updating API request parameters
 
-_Last updated: 2025-02-17T07:07:29.043Z_
+_Last updated: 2025-02-17T07:07:58.022Z_
