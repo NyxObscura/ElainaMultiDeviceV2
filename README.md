@@ -1,3 +1,3 @@
-# Optimizing CSS rules
+# Fixing broken links in README
 
-_Last updated: 2025-02-17T09:05:26.504Z_
+_Last updated: 2025-02-17T09:05:50.069Z_
