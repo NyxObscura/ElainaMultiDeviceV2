@@ -1,3 +1,3 @@
-# Updating API request parameters
+# Small code refactor
 
-_Last updated: 2025-02-17T16:38:41.588Z_
+_Last updated: 2025-02-17T16:39:11.696Z_
