@@ -1,3 +1,3 @@
-# Optimizing caching mechanism
+# Optimizing CSS rules
 
-_Last updated: 2025-02-17T15:01:40.127Z_
+_Last updated: 2025-02-17T15:02:10.121Z_
