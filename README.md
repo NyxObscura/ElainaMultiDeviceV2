@@ -1,3 +1,3 @@
-# Enhancing offline support
+# Fixing internationalization issues
 
-_Last updated: 2025-02-17T20:03:14.018Z_
+_Last updated: 2025-02-17T20:03:44.003Z_
