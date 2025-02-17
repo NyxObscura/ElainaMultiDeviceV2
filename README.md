@@ -1,3 +1,3 @@
-# Improving application startup time
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-17T17:51:41.892Z_
+_Last updated: 2025-02-17T17:52:11.967Z_
