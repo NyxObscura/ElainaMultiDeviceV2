@@ -1,3 +1,3 @@
-# Adding better tooltips
+# Fixing UI glitches
 
-_Last updated: 2025-02-18T00:12:51.473Z_
+_Last updated: 2025-02-18T00:13:01.501Z_
