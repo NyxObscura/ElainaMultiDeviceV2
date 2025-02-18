@@ -1,3 +1,3 @@
-# Fixing event listener memory leaks
+# Removing deprecated functions
 
-_Last updated: 2025-02-18T01:09:58.988Z_
+_Last updated: 2025-02-18T01:10:08.939Z_
