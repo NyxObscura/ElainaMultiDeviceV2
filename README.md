@@ -1,3 +1,3 @@
-# Minor text update
+# Adding proper error messages
 
-_Last updated: 2025-02-18T00:28:24.987Z_
+_Last updated: 2025-02-18T00:28:34.962Z_
