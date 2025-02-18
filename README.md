@@ -1,3 +1,3 @@
-# Optimizing CSS rules
+# Improving keyboard accessibility
 
-_Last updated: 2025-02-18T00:44:26.326Z_
+_Last updated: 2025-02-18T00:44:36.747Z_
