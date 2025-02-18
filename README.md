@@ -1,3 +1,3 @@
-# Fixing session timeout issues
+# Updating documentation formatting
 
-_Last updated: 2025-02-18T00:06:01.268Z_
+_Last updated: 2025-02-18T00:06:11.185Z_
