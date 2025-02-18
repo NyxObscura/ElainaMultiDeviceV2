@@ -1,3 +1,3 @@
-# Enhancing frontend performance
+# Improving SEO metadata
 
-_Last updated: 2025-02-18T01:41:10.901Z_
+_Last updated: 2025-02-18T01:41:20.877Z_
