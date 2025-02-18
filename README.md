@@ -1,3 +1,3 @@
-# Updating changelog
+# Adding proper error messages
 
-_Last updated: 2025-02-18T01:55:31.580Z_
+_Last updated: 2025-02-18T01:55:41.590Z_
